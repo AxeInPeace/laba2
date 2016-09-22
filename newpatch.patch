@@ -1,0 +1,15 @@
+diff --git a/Document for additional tasks.txt b/Document for additional tasks.txt
+new file mode 100644
+index 0000000..5f9dbe0
+--- /dev/null
++++ b/Document for additional tasks.txt
+@@ -0,0 +1 @@
++Some changes to make commit
+\ No newline at end of file
+diff --git a/Document for branch1.txt b/Document for branch1.txt
+index e69de29..52044d9 100644
+--- a/Document for branch1.txt
++++ b/Document for branch1.txt
+@@ -0,0 +1 @@
++ADD SOME CHANGES HERE LOOK AT THIS
+\ No newline at end of file

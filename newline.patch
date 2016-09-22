@@ -1,0 +1,21 @@
+From e6ca2c5a3015ce24fd7fbd80184cd66543a064c3 Mon Sep 17 00:00:00 2001
+From: AxeInPeace <sekirin.pavel@yandex.ru>
+Date: Thu, 22 Sep 2016 14:30:13 +0400
+Subject: [PATCH] Get from stash for additional tasks
+
+---
+ Document for additional tasks.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 Document for additional tasks.txt
+
+diff --git a/Document for additional tasks.txt b/Document for additional tasks.txt
+new file mode 100644
+index 0000000..5f9dbe0
+--- /dev/null
++++ b/Document for additional tasks.txt	
+@@ -0,0 +1 @@
++Some changes to make commit
+\ No newline at end of file
+-- 
+2.10.0.windows.1
+
